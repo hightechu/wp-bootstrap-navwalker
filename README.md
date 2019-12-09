@@ -4,7 +4,7 @@
 
 To install, run the following in your Sage9-based theme directory:
 ```bash
-composer require "ivanpmartell/wp-bootstrap-navwalker"
+composer require "hightechu/wp-bootstrap-navwalker"
 ```
 
 In your 'header.blade.php'
