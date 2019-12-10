@@ -1,5 +1,11 @@
 # Sage Wordpress Bootstrap Navwalker
 
+## Package
+
+The package is submitted to Packagist (The PHP Package Repository). 
+
+https://packagist.org/packages/hightechu/wp-bootstrap-navwalker
+
 ## Installation
 
 To install, run the following in your Sage9-based theme directory:
