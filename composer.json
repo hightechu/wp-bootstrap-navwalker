@@ -19,7 +19,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/hightechu/wp-bootstrap-navwalker/issues/",
+        "issues": "https://github.com/hightechu/wp-bootstrap-navwalker/issues",
         "source": "https://github.com/hightechu/wp-bootstrap-navwalker/"
     },
     "require": {
